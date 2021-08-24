@@ -11,3 +11,5 @@ function palindrome(string) {
     }
     return true;
   }
+
+palindrome('eye');
