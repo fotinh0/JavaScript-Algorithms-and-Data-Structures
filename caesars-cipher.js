@@ -6,7 +6,7 @@ function rot13(str) {
     for (let i = 0; i < array.length; i++) {    
         var index = array[i].charCodeAt();
    
-        if (array[i].match(/[A-Z]/)) {   
+        if (array[i].match(/[A-Z]/)){   
             if (index >= 65 && index <= 77) {
                 index += 13;
         }
@@ -26,3 +26,5 @@ function rot13(str) {
  
     return array2.join("");
 }
+
+rot13("SERR PBQR PNZC");
