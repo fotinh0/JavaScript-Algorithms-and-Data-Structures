@@ -1,4 +1,4 @@
-# freeCodeCamp JavaScript Algorithms and Data Structure Projects
+# freeCodeCamp JavaScript Algorithms and Data Structures Projects
 
 These are the five projects required to receive a JavaScipt Algorithms and Data Structure certification from freeCodeCamp. Any suggestions or critiques to improve my code are highly appreciated.
 
