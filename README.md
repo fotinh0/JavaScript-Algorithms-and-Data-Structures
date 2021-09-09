@@ -13,4 +13,4 @@ These are the five projects required to receive a JavaScipt Algorithms and Data 
 - ### Project 5: [Cash Register](https://github.com/fotinh0/JavaScript-Algorithms-and-Data-Structures/blob/main/cash-register.js)
 
 
-[Certification](https://www.freecodecamp.org/certification/fotinh0/responsive-web-design) issued on July 19, 2021. 
+### [Certification](https://www.freecodecamp.org/certification/fotinh0/responsive-web-design) issued on July 19, 2021. 
